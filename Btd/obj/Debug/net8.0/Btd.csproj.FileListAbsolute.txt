@@ -1,0 +1,5 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Btd\obj\Debug\net8.0\Btd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Btd\obj\Debug\net8.0\Btd.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Btd\obj\Debug\net8.0\Btd.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Btd\obj\Debug\net8.0\Btd.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Btd\obj\Debug\net8.0\Btd.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\bin\Debug\net8.0\#sampleSyntax.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\bin\Debug\net8.0\#sampleSyntax.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\bin\Debug\net8.0\#sampleSyntax.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\bin\Debug\net8.0\#sampleSyntax.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\bin\Debug\net8.0\#sampleSyntax.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\refint\#sampleSyntax.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\#sampleSyntax.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#sampleSyntax\obj\Debug\net8.0\ref\#sampleSyntax.dll

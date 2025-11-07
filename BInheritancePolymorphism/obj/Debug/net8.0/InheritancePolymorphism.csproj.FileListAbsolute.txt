@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\bin\Debug\net8.0\InheritancePolymorphism.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\bin\Debug\net8.0\InheritancePolymorphism.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\bin\Debug\net8.0\InheritancePolymorphism.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\bin\Debug\net8.0\InheritancePolymorphism.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\bin\Debug\net8.0\InheritancePolymorphism.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\refint\InheritancePolymorphism.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\InheritancePolymorphism.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\BInheritancePolymorphism\obj\Debug\net8.0\ref\InheritancePolymorphism.dll

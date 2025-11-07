@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\bin\Debug\net8.0\ABasic2.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\bin\Debug\net8.0\ABasic2.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\bin\Debug\net8.0\ABasic2.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\bin\Debug\net8.0\ABasic2.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\bin\Debug\net8.0\ABasic2.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\refint\ABasic2.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ABasic2.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ABasic2\obj\Debug\net8.0\ref\ABasic2.dll

@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\bin\Debug\net8.0\Dictionary_ShopCart.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\bin\Debug\net8.0\Dictionary_ShopCart.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\bin\Debug\net8.0\Dictionary_ShopCart.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\bin\Debug\net8.0\Dictionary_ShopCart.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\bin\Debug\net8.0\Dictionary_ShopCart.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\refint\Dictionary_ShopCart.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\Dictionary_ShopCart.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Dictionary_ShopCart\obj\Debug\net8.0\ref\Dictionary_ShopCart.dll

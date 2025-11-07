@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\bin\Debug\net8.0\ALeetCode-2Sum.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\bin\Debug\net8.0\ALeetCode-2Sum.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\bin\Debug\net8.0\ALeetCode-2Sum.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\bin\Debug\net8.0\ALeetCode-2Sum.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\bin\Debug\net8.0\ALeetCode-2Sum.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\refint\ALeetCode-2Sum.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ALeetCode-2Sum.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALeetCode-2Sum\obj\Debug\net8.0\ref\ALeetCode-2Sum.dll

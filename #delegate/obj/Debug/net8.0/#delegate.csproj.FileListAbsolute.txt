@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\bin\Debug\net8.0\#delegate.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\bin\Debug\net8.0\#delegate.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\bin\Debug\net8.0\#delegate.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\bin\Debug\net8.0\#delegate.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\bin\Debug\net8.0\#delegate.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\refint\#delegate.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\#delegate.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#delegate\obj\Debug\net8.0\ref\#delegate.dll

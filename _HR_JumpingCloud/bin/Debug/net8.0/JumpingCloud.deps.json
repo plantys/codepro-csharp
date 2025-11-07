@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "JumpingCloud/1.0.0": {
+        "runtime": {
+          "JumpingCloud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JumpingCloud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

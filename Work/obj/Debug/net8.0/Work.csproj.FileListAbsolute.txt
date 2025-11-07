@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\bin\Debug\net8.0\Work.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\bin\Debug\net8.0\Work.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\bin\Debug\net8.0\Work.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\bin\Debug\net8.0\Work.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\bin\Debug\net8.0\Work.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\refint\Work.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\Work.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\Work\obj\Debug\net8.0\ref\Work.dll

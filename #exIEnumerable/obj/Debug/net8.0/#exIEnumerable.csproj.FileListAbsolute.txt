@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\bin\Debug\net8.0\#exIEnumerable.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\bin\Debug\net8.0\#exIEnumerable.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\bin\Debug\net8.0\#exIEnumerable.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\bin\Debug\net8.0\#exIEnumerable.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\bin\Debug\net8.0\#exIEnumerable.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\refint\#exIEnumerable.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\#exIEnumerable.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#exIEnumerable\obj\Debug\net8.0\ref\#exIEnumerable.dll

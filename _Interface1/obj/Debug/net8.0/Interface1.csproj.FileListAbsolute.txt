@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\bin\Debug\net8.0\Interface1.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\bin\Debug\net8.0\Interface1.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\bin\Debug\net8.0\Interface1.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\bin\Debug\net8.0\Interface1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\bin\Debug\net8.0\Interface1.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\refint\Interface1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\Interface1.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Interface1\obj\Debug\net8.0\ref\Interface1.dll

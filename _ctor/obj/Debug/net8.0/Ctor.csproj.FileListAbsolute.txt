@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\bin\Debug\net8.0\Ctor.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\bin\Debug\net8.0\Ctor.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\bin\Debug\net8.0\Ctor.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\bin\Debug\net8.0\Ctor.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\bin\Debug\net8.0\Ctor.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\refint\Ctor.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\Ctor.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_ctor\obj\Debug\net8.0\ref\Ctor.dll

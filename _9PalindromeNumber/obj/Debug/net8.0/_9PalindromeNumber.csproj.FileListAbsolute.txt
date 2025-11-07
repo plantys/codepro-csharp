@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\bin\Debug\net8.0\_9PalindromeNumber.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\bin\Debug\net8.0\_9PalindromeNumber.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\bin\Debug\net8.0\_9PalindromeNumber.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\bin\Debug\net8.0\_9PalindromeNumber.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\bin\Debug\net8.0\_9PalindromeNumber.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\refint\_9PalindromeNumber.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\_9PalindromeNumber.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_9PalindromeNumber\obj\Debug\net8.0\ref\_9PalindromeNumber.dll

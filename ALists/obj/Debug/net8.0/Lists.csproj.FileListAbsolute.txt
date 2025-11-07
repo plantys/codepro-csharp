@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\bin\Debug\net8.0\Lists.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\bin\Debug\net8.0\Lists.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\bin\Debug\net8.0\Lists.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\bin\Debug\net8.0\Lists.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\bin\Debug\net8.0\Lists.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\refint\Lists.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALists\obj\Debug\net8.0\ref\Lists.dll

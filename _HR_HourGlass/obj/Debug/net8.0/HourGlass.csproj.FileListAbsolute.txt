@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\bin\Debug\net8.0\HourGlass.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\bin\Debug\net8.0\HourGlass.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\bin\Debug\net8.0\HourGlass.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\bin\Debug\net8.0\HourGlass.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\bin\Debug\net8.0\HourGlass.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\refint\HourGlass.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\HourGlass.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_HourGlass\obj\Debug\net8.0\ref\HourGlass.dll

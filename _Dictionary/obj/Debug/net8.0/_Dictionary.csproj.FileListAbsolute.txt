@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\bin\Debug\net8.0\_Dictionary.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\bin\Debug\net8.0\_Dictionary.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\bin\Debug\net8.0\_Dictionary.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\bin\Debug\net8.0\_Dictionary.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\bin\Debug\net8.0\_Dictionary.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\refint\_Dictionary.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\_Dictionary.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Dictionary\obj\Debug\net8.0\ref\_Dictionary.dll

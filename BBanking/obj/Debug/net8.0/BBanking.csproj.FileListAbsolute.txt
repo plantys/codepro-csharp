@@ -1,0 +1,5 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\BBanking\obj\Debug\net8.0\BBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\BBanking\obj\Debug\net8.0\BBanking.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\BBanking\obj\Debug\net8.0\BBanking.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\BBanking\obj\Debug\net8.0\BBanking.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\BBanking\obj\Debug\net8.0\BBanking.sourcelink.json

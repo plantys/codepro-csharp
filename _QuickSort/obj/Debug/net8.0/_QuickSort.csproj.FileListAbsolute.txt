@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\bin\Debug\net8.0\_QuickSort.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\bin\Debug\net8.0\_QuickSort.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\bin\Debug\net8.0\_QuickSort.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\bin\Debug\net8.0\_QuickSort.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\bin\Debug\net8.0\_QuickSort.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\refint\_QuickSort.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\_QuickSort.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_QuickSort\obj\Debug\net8.0\ref\_QuickSort.dll

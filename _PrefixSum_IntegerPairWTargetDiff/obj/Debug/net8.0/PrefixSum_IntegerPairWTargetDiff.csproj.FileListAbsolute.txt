@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\bin\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\bin\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\bin\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\bin\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\bin\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\refint\PrefixSum_IntegerPairWTargetDiff.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\PrefixSum_IntegerPairWTargetDiff.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum_IntegerPairWTargetDiff\obj\Debug\net8.0\ref\PrefixSum_IntegerPairWTargetDiff.dll

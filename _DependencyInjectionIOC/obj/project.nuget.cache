@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+HVYRmPuTAM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prade\\source\\repos\\codepro-csharp\\_DependencyInjectionIOC\\DI_IOC_Transient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\prade\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\bin\Debug\net8.0\Lambda1.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\bin\Debug\net8.0\Lambda1.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\bin\Debug\net8.0\Lambda1.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\bin\Debug\net8.0\Lambda1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\bin\Debug\net8.0\Lambda1.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\refint\Lambda1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\Lambda1.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\ALambda\obj\Debug\net8.0\ref\Lambda1.dll

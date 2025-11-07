@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\bin\Debug\net8.0\FuncWClassInterf.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\bin\Debug\net8.0\FuncWClassInterf.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\bin\Debug\net8.0\FuncWClassInterf.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\bin\Debug\net8.0\FuncWClassInterf.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\bin\Debug\net8.0\FuncWClassInterf.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\refint\FuncWClassInterf.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\FuncWClassInterf.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_FuncWClassInterf\obj\Debug\net8.0\ref\FuncWClassInterf.dll

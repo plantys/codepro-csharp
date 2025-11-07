@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\bin\Debug\net8.0\PrefixSum.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\bin\Debug\net8.0\PrefixSum.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\bin\Debug\net8.0\PrefixSum.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\bin\Debug\net8.0\PrefixSum.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\bin\Debug\net8.0\PrefixSum.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\refint\PrefixSum.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\PrefixSum.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_PrefixSum\obj\Debug\net8.0\ref\PrefixSum.dll

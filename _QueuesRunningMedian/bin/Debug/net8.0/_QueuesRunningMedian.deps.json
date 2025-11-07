@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_QueuesRunningMedian/1.0.0": {
+        "dependencies": {
+          "_Regex": "1.0.0"
+        },
+        "runtime": {
+          "_QueuesRunningMedian.dll": {}
+        }
+      },
+      "_Regex/1.0.0": {
+        "runtime": {
+          "_Regex.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_QueuesRunningMedian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "_Regex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

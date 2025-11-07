@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\bin\Debug\net8.0\MinBribes_fin.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\bin\Debug\net8.0\MinBribes_fin.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\bin\Debug\net8.0\MinBribes_fin.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\bin\Debug\net8.0\MinBribes_fin.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\bin\Debug\net8.0\MinBribes_fin.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\refint\MinBribes_fin.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\MinBribes_fin.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_MinBribes_fin\obj\Debug\net8.0\ref\MinBribes_fin.dll

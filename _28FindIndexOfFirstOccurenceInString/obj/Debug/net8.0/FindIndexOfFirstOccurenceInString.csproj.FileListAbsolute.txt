@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\bin\Debug\net8.0\FindIndexOfFirstOccurenceInString.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\bin\Debug\net8.0\FindIndexOfFirstOccurenceInString.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\bin\Debug\net8.0\FindIndexOfFirstOccurenceInString.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\bin\Debug\net8.0\FindIndexOfFirstOccurenceInString.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\bin\Debug\net8.0\FindIndexOfFirstOccurenceInString.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\refint\FindIndexOfFirstOccurenceInString.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\FindIndexOfFirstOccurenceInString.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_28FindIndexOfFirstOccurenceInString\obj\Debug\net8.0\ref\FindIndexOfFirstOccurenceInString.dll

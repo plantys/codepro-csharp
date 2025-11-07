@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\bin\Debug\net8.0\ATuples.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\bin\Debug\net8.0\ATuples.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\bin\Debug\net8.0\ATuples.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\bin\Debug\net8.0\ATuples.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\bin\Debug\net8.0\ATuples.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\refint\ATuples.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ATuples.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ATuples\obj\Debug\net8.0\ref\ATuples.dll

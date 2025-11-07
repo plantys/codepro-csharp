@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\bin\Debug\net8.0\_ConsoleWriteLineBacktick.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\bin\Debug\net8.0\_ConsoleWriteLineBacktick.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\bin\Debug\net8.0\_ConsoleWriteLineBacktick.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\bin\Debug\net8.0\_ConsoleWriteLineBacktick.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\bin\Debug\net8.0\_ConsoleWriteLineBacktick.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\refint\_ConsoleWriteLineBacktick.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\_ConsoleWriteLineBacktick.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ConsoleWriteLineBacktick\obj\Debug\net8.0\ref\_ConsoleWriteLineBacktick.dll

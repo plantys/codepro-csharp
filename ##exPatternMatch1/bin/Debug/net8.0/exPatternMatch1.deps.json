@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "exPatternMatch1/1.0.0": {
+        "runtime": {
+          "exPatternMatch1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exPatternMatch1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

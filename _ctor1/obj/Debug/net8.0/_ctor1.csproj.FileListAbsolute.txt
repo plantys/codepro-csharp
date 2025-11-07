@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\bin\Debug\net8.0\_ctor1.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\bin\Debug\net8.0\_ctor1.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\bin\Debug\net8.0\_ctor1.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\bin\Debug\net8.0\_ctor1.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\bin\Debug\net8.0\_ctor1.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\refint\_ctor1.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\_ctor1.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_ctor1\obj\Debug\net8.0\ref\_ctor1.dll

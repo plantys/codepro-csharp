@@ -1,0 +1,4 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net9.0\ALambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net9.0\ALambda.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net9.0\ALambda.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net9.0\ALambda.csproj.CoreCompileInputs.cache

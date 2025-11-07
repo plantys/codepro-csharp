@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\bin\Debug\net8.0\Queues.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\bin\Debug\net8.0\Queues.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\bin\Debug\net8.0\Queues.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\bin\Debug\net8.0\Queues.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\bin\Debug\net8.0\Queues.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\refint\Queues.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\Queues.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_Queues\obj\Debug\net8.0\ref\Queues.dll

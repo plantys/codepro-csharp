@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ALeetCode-2Sum/1.0.0": {
+        "runtime": {
+          "ALeetCode-2Sum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ALeetCode-2Sum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

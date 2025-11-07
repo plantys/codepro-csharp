@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\bin\Debug\net8.0\StackQueue.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\bin\Debug\net8.0\StackQueue.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\bin\Debug\net8.0\StackQueue.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\bin\Debug\net8.0\StackQueue.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\bin\Debug\net8.0\StackQueue.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\refint\StackQueue.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\StackQueue.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\#StackQueue\obj\Debug\net8.0\ref\StackQueue.dll

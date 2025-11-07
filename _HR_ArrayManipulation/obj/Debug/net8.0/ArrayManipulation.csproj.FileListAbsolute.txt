@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\bin\Debug\net8.0\ArrayManipulation.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\bin\Debug\net8.0\ArrayManipulation.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\bin\Debug\net8.0\ArrayManipulation.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\bin\Debug\net8.0\ArrayManipulation.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\bin\Debug\net8.0\ArrayManipulation.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\refint\ArrayManipulation.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ArrayManipulation.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_HR_ArrayManipulation\obj\Debug\net8.0\ref\ArrayManipulation.dll

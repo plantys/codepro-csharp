@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\bin\Debug\net8.0\_Linked-Hash-ShoppingCart.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\bin\Debug\net8.0\_Linked-Hash-ShoppingCart.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\bin\Debug\net8.0\_Linked-Hash-ShoppingCart.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\bin\Debug\net8.0\_Linked-Hash-ShoppingCart.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\bin\Debug\net8.0\_Linked-Hash-ShoppingCart.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\refint\_Linked-Hash-ShoppingCart.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\_Linked-Hash-ShoppingCart.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\_Linked-Hash-ShoppingCart\obj\Debug\net8.0\ref\_Linked-Hash-ShoppingCart.dll

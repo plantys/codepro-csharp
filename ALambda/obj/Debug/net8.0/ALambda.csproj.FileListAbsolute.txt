@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\bin\Debug\net8.0\ALambda.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\bin\Debug\net8.0\ALambda.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\bin\Debug\net8.0\ALambda.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\bin\Debug\net8.0\ALambda.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\bin\Debug\net8.0\ALambda.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\refint\ALambda.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ALambda.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALambda\obj\Debug\net8.0\ref\ALambda.dll

@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\bin\Debug\net8.0\LinkedList-SlidingWindowMin.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\bin\Debug\net8.0\LinkedList-SlidingWindowMin.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\bin\Debug\net8.0\LinkedList-SlidingWindowMin.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\bin\Debug\net8.0\LinkedList-SlidingWindowMin.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\bin\Debug\net8.0\LinkedList-SlidingWindowMin.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\refint\LinkedList-SlidingWindowMin.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\LinkedList-SlidingWindowMin.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList-SlidingWindowMin\obj\Debug\net8.0\ref\LinkedList-SlidingWindowMin.dll

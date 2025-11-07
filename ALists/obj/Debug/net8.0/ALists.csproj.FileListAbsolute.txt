@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\bin\Debug\net8.0\ALists.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\bin\Debug\net8.0\ALists.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\bin\Debug\net8.0\ALists.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\bin\Debug\net8.0\ALists.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\bin\Debug\net8.0\ALists.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\refint\ALists.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ALists.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALists\obj\Debug\net8.0\ref\ALists.dll

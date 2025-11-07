@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "_LinkedList_Reverse/1.0.0": {
+        "runtime": {
+          "_LinkedList_Reverse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_LinkedList_Reverse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

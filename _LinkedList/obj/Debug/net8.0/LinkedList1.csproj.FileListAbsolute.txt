@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\bin\Debug\net8.0\LinkedList1.exe
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\bin\Debug\net8.0\LinkedList1.deps.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\bin\Debug\net8.0\LinkedList1.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\bin\Debug\net8.0\LinkedList1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\bin\Debug\net8.0\LinkedList1.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\refint\LinkedList1.dll
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.pdb
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\LinkedList1.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\codepro-csharp\_LinkedList\obj\Debug\net8.0\ref\LinkedList1.dll

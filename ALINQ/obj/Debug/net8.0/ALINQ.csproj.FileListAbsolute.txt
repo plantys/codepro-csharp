@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\bin\Debug\net8.0\ALINQ.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\bin\Debug\net8.0\ALINQ.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\bin\Debug\net8.0\ALINQ.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\bin\Debug\net8.0\ALINQ.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\bin\Debug\net8.0\ALINQ.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\refint\ALINQ.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ALINQ.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\ALINQ\obj\Debug\net8.0\ref\ALINQ.dll

@@ -1,0 +1,15 @@
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\bin\Debug\net8.0\#lambda.exe
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\bin\Debug\net8.0\#lambda.deps.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\bin\Debug\net8.0\#lambda.runtimeconfig.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\bin\Debug\net8.0\#lambda.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\bin\Debug\net8.0\#lambda.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.AssemblyInfoInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.AssemblyInfo.cs
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.csproj.CoreCompileInputs.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.sourcelink.json
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\refint\#lambda.dll
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.pdb
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\#lambda.genruntimeconfig.cache
+C:\Users\prade\source\repos\CSharp1\C#Demo1\#lambda\obj\Debug\net8.0\ref\#lambda.dll
